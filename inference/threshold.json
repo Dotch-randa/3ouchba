@@ -1,0 +1,11 @@
+{
+  "threshold": 0.5631492733955383,
+  "youden_j": 0.4618347338935574,
+  "sensitivity": 0.7559523809523809,
+  "specificity": 0.7058823529411764,
+  "models": [
+    "efficientnet_b0",
+    "resnet50"
+  ],
+  "n_samples": 236
+}
