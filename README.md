@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # app_3ouchba
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# 3ouchba
+>>>>>>> 8b47f2bd76986866339907a32578e0d724ddff92
